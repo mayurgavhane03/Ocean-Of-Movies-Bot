@@ -1,0 +1,323 @@
+[01-Jul-24 00:47:57 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[01-Jul-24 00:48:08 - WARNING] - bot - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[01-Jul-24 00:48:08 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1001900819675
+[01-Jul-24 00:48:49 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[01-Jul-24 00:48:54 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6681af988749f80feafecffd, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6681af988749f80feafecffd"}, "remainingTimeMS": 30}
+[01-Jul-24 00:49:52 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[01-Jul-24 00:49:57 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6681afd79d2a4fe6292cc397, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6681afd79d2a4fe6292cc397"}, "remainingTimeMS": 30}
+[01-Jul-24 00:50:23 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[01-Jul-24 00:50:28 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6681aff69a559eec230dff25, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6681aff69a559eec230dff25"}, "remainingTimeMS": 30}
+[01-Jul-24 00:50:41 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[01-Jul-24 00:50:46 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6681b0071655af9fb63a62da, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6681b0071655af9fb63a62da"}, "remainingTimeMS": 30}
+[01-Jul-24 00:58:02 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[01-Jul-24 00:58:07 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6681b1c09fdc48af6bc0e591, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6681b1c09fdc48af6bc0e591"}, "remainingTimeMS": 30}
+[01-Jul-24 00:58:08 - INFO] - bot - Bot Running..!
+[01-Jul-24 01:03:06 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Jul-24 01:03:06 - INFO] - bot - Bot stopped.
+[01-Jul-24 01:03:10 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[01-Jul-24 01:03:15 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6681b2f47e1e7a2e04e53086, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6681b2f47e1e7a2e04e53086"}, "remainingTimeMS": 30}
+[01-Jul-24 01:03:16 - INFO] - bot - Bot Running..!
+[01-Jul-24 01:06:36 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Jul-24 01:06:36 - INFO] - bot - Bot stopped.
+[01-Jul-24 01:06:41 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[01-Jul-24 01:06:45 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6681b3c7ca65a02b7b802b0a, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6681b3c7ca65a02b7b802b0a"}, "remainingTimeMS": 30}
+[01-Jul-24 01:06:46 - INFO] - bot - Bot Running..!
+[01-Jul-24 01:14:47 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Jul-24 01:14:47 - INFO] - bot - Bot stopped.
+[01-Jul-24 01:14:51 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[01-Jul-24 01:14:56 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6681b5b21f8a31d779a689af, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6681b5b21f8a31d779a689af"}, "remainingTimeMS": 30}
+[01-Jul-24 01:14:58 - INFO] - bot - Bot Running..!
+[01-Jul-24 01:15:08 - ERROR] - pyrogram.dispatcher - Telegram says: [400 BUTTON_URL_INVALID] - The button url is invalid (caused by "messages.SendMessage")
+Traceback (most recent call last):
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\dispatcher.py", line 242, in handler_worker
+    await self.loop.run_in_executor(
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\sync.py", line 78, in async_to_sync_wrap
+    return asyncio.run_coroutine_threadsafe(coroutine, main_loop).result()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 456, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyromod\listen\message_handler.py", line 98, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\mayur\Desktop\Telegram Bots\OceanofMoviesBot\File-Sharing-Telegram-bot\plugins\start.py", line 167, in start_command
+    await message.reply(f"Your Ads token is expired, refresh your token and try again. \n\nToken Timeout: {get_exp_time(VERIFY_EXPIRE)}\n\nWhat is the token?\n\nThis is an ads token. If you pass 1 ad, you can use the bot for 24 Hour after passing the ad", reply_markup=InlineKeyboardMarkup(btn), protect_content=False, quote=True)
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\types\messages_and_media\message.py", line 970, in reply_text
+    return await self._client.send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\methods\messages\send_message.py", line 126, in send_message
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\methods\advanced\invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\session\session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\session\session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\errors\rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ButtonUrlInvalid: Telegram says: [400 BUTTON_URL_INVALID] - The button url is invalid (caused by "messages.SendMessage")
+[01-Jul-24 01:16:38 - ERROR] - pyrogram.dispatcher - Telegram says: [400 BUTTON_URL_INVALID] - The button url is invalid (caused by "messages.SendMessage")
+Traceback (most recent call last):
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\dispatcher.py", line 242, in handler_worker
+    await self.loop.run_in_executor(
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\sync.py", line 78, in async_to_sync_wrap
+    return asyncio.run_coroutine_threadsafe(coroutine, main_loop).result()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 456, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyromod\listen\message_handler.py", line 98, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\mayur\Desktop\Telegram Bots\OceanofMoviesBot\File-Sharing-Telegram-bot\plugins\start.py", line 167, in start_command
+    await message.reply(f"Your Ads token is expired, refresh your token and try again. \n\nToken Timeout: {get_exp_time(VERIFY_EXPIRE)}\n\nWhat is the token?\n\nThis is an ads token. If you pass 1 ad, you can use the bot for 24 Hour after passing the ad", reply_markup=InlineKeyboardMarkup(btn), protect_content=False, quote=True)
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\types\messages_and_media\message.py", line 970, in reply_text
+    return await self._client.send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\methods\messages\send_message.py", line 126, in send_message
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\methods\advanced\invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\session\session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\session\session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\errors\rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ButtonUrlInvalid: Telegram says: [400 BUTTON_URL_INVALID] - The button url is invalid (caused by "messages.SendMessage")
+[01-Jul-24 01:16:59 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Jul-24 01:17:11 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[01-Jul-24 01:17:16 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6681b63d6f13befbec1a9082, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6681b63d6f13befbec1a9082"}, "remainingTimeMS": 30}
+[01-Jul-24 01:17:17 - INFO] - bot - Bot Running..!
+[01-Jul-24 01:21:48 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Jul-24 01:21:48 - INFO] - bot - Bot stopped.
+[01-Jul-24 01:21:52 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[01-Jul-24 01:21:57 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6681b7572aec9fb10c7b3bd6, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6681b7572aec9fb10c7b3bd6"}, "remainingTimeMS": 30}
+[01-Jul-24 01:21:58 - INFO] - bot - Bot Running..!
+[01-Jul-24 01:22:52 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Jul-24 01:23:02 - INFO] - bot - Bot stopped.
+[01-Jul-24 01:23:06 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[01-Jul-24 01:23:11 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6681b7a1f5a577661932ec70, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6681b7a1f5a577661932ec70"}, "remainingTimeMS": 30}
+[01-Jul-24 01:23:12 - INFO] - bot - Bot Running..!
+[01-Jul-24 01:23:36 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Jul-24 01:23:59 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[01-Jul-24 01:24:04 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6681b7d65f01ce7cacff2939, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6681b7d65f01ce7cacff2939"}, "remainingTimeMS": 30}
+[01-Jul-24 01:24:05 - INFO] - bot - Bot Running..!
+[01-Jul-24 01:27:32 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Jul-24 01:27:47 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[01-Jul-24 01:27:52 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6681b8bae58df299a4d27bfc, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6681b8bae58df299a4d27bfc"}, "remainingTimeMS": 30}
+[01-Jul-24 01:27:53 - INFO] - bot - Bot Running..!
+[01-Jul-24 01:30:21 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Jul-24 01:30:21 - INFO] - bot - Bot stopped.
+[01-Jul-24 01:30:25 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[01-Jul-24 01:30:29 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6681b95829b27df4722e1130, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6681b95829b27df4722e1130"}, "remainingTimeMS": 30}
+[01-Jul-24 01:30:31 - INFO] - bot - Bot Running..!
+[01-Jul-24 01:34:32 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[01-Jul-24 01:34:32 - INFO] - bot - Bot stopped.
+[01-Jul-24 01:34:43 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[01-Jul-24 01:34:48 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6681ba5807c9ff67bf324e9c, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6681ba5807c9ff67bf324e9c"}, "remainingTimeMS": 30}
+[01-Jul-24 01:34:49 - INFO] - bot - Bot Running..!
+[07-Jul-24 20:45:30 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[07-Jul-24 20:45:45 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 668ab10eb2957922720d61b0, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "668ab10eb2957922720d61b0"}, "remainingTimeMS": 30}
+[07-Jul-24 20:45:52 - INFO] - bot - Bot Running..!
+[07-Jul-24 20:46:48 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[07-Jul-24 20:48:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[07-Jul-24 20:48:44 - INFO] - bot - Bot stopped.
+[07-Jul-24 20:48:50 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[07-Jul-24 20:48:59 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 668ab1d727a893bac22e1b91, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "668ab1d727a893bac22e1b91"}, "remainingTimeMS": 30}
+[07-Jul-24 20:49:01 - INFO] - bot - Bot Running..!
+[07-Jul-24 20:50:28 - ERROR] - pyrogram.dispatcher - Telegram says: [400 BUTTON_URL_INVALID] - The button url is invalid (caused by "messages.EditMessage")
+Traceback (most recent call last):
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\dispatcher.py", line 242, in handler_worker
+    await self.loop.run_in_executor(
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\sync.py", line 78, in async_to_sync_wrap
+    return asyncio.run_coroutine_threadsafe(coroutine, main_loop).result()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 456, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyromod\listen\callback_query_handler.py", line 146, in resolve_future_or_callback
+    await self.original_callback(client, query, *args)
+  File "C:\Users\mayur\Desktop\Telegram Bots\OceanofMoviesBot\File-Sharing-Telegram-bot\plugins\cbb.py", line 29, in cb_handler
+    await query.message.edit_text(
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\types\messages_and_media\message.py", line 2803, in edit_text
+    return await self._client.edit_message_text(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\methods\messages\edit_message_text.py", line 82, in edit_message_text
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\methods\advanced\invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\session\session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\session\session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\errors\rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ButtonUrlInvalid: Telegram says: [400 BUTTON_URL_INVALID] - The button url is invalid (caused by "messages.EditMessage")
+[07-Jul-24 20:55:07 - ERROR] - pyrogram.dispatcher - Telegram says: [400 BUTTON_URL_INVALID] - The button url is invalid (caused by "messages.EditMessage")
+Traceback (most recent call last):
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\dispatcher.py", line 242, in handler_worker
+    await self.loop.run_in_executor(
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\sync.py", line 78, in async_to_sync_wrap
+    return asyncio.run_coroutine_threadsafe(coroutine, main_loop).result()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 456, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyromod\listen\callback_query_handler.py", line 146, in resolve_future_or_callback
+    await self.original_callback(client, query, *args)
+  File "C:\Users\mayur\Desktop\Telegram Bots\OceanofMoviesBot\File-Sharing-Telegram-bot\plugins\cbb.py", line 29, in cb_handler
+    await query.message.edit_text(
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\types\messages_and_media\message.py", line 2803, in edit_text
+    return await self._client.edit_message_text(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\methods\messages\edit_message_text.py", line 82, in edit_message_text
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\methods\advanced\invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\session\session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\session\session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\errors\rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ButtonUrlInvalid: Telegram says: [400 BUTTON_URL_INVALID] - The button url is invalid (caused by "messages.EditMessage")
+[07-Jul-24 20:58:42 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[07-Jul-24 20:58:42 - INFO] - bot - Bot stopped.
+[07-Jul-24 20:58:49 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[07-Jul-24 20:58:58 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 668ab42e80d50e7ab6447e3e, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "668ab42e80d50e7ab6447e3e"}, "remainingTimeMS": 30}
+[07-Jul-24 20:59:01 - INFO] - bot - Bot Running..!
+[07-Jul-24 21:30:56 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 21:41:05 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: Connection timed out
+[07-Jul-24 21:41:16 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: Connection timed out
+[07-Jul-24 21:41:27 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: Connection timed out
+[07-Jul-24 21:41:28 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[07-Jul-24 21:41:38 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: Connection timed out
+[07-Jul-24 21:41:49 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: Connection timed out
+[07-Jul-24 21:42:00 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: Connection timed out
+[07-Jul-24 21:42:01 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[07-Jul-24 21:42:03 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1236] The network connection was aborted by the local system
+[07-Jul-24 21:42:04 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 21:42:05 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 21:42:06 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[07-Jul-24 21:42:06 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 21:42:07 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 22:21:18 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 22:21:19 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 22:21:20 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 22:21:21 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[07-Jul-24 22:21:21 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 22:21:22 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 22:21:42 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: Connection timed out
+[07-Jul-24 22:21:59 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: Connection timed out
+[07-Jul-24 22:22:07 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1236] The network connection was aborted by the local system
+[07-Jul-24 22:22:08 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 22:22:09 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[07-Jul-24 22:22:09 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 22:22:10 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 22:22:11 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 22:22:12 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[07-Jul-24 22:22:12 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 22:22:13 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 22:22:14 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 22:22:15 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[07-Jul-24 22:22:15 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 22:22:16 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 22:39:12 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 22:39:13 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 22:39:14 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[07-Jul-24 22:39:15 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[07-Jul-24 23:36:47 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: Connection timed out
+[18-Jul-24 23:56:47 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[18-Jul-24 23:56:57 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 66995e6365f65073370e8e78, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "66995e6365f65073370e8e78"}, "remainingTimeMS": 30}
+[18-Jul-24 23:56:59 - INFO] - bot - Bot Running..!
+[18-Jul-24 23:59:12 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[18-Jul-24 23:59:12 - INFO] - bot - Bot stopped.
+[18-Jul-24 23:59:47 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[18-Jul-24 23:59:56 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 66995f1a40f9b0c1c20e630d, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "66995f1a40f9b0c1c20e630d"}, "remainingTimeMS": 30}
+[18-Jul-24 23:59:58 - INFO] - bot - Bot Running..!
+[19-Jul-24 00:12:11 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[19-Jul-24 00:12:11 - INFO] - bot - Bot stopped.
+[19-Jul-24 00:13:40 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[19-Jul-24 00:13:53 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6699625a36a4f053a4db6256, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6699625a36a4f053a4db6256"}, "remainingTimeMS": 30}
+[19-Jul-24 00:13:54 - INFO] - bot - Bot Running..!
+[19-Jul-24 00:14:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[19-Jul-24 00:14:44 - INFO] - bot - Bot stopped.
+[19-Jul-24 00:14:47 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[19-Jul-24 00:14:51 - WARNING] - bot - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[19-Jul-24 00:14:51 - WARNING] - bot - Bot can't Export Invite link from Force Sub Channel!
+[19-Jul-24 00:14:51 - WARNING] - bot - Please Double check the FORCE_SUB_CHANNEL value and Make sure Bot is Admin in channel with Invite Users via Link Permission, Current Force Sub Channel Value: -1002218398415
+[19-Jul-24 00:15:54 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[19-Jul-24 00:16:06 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 669962e1e0cb292efdd4874c, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "669962e1e0cb292efdd4874c"}, "remainingTimeMS": 30}
+[19-Jul-24 00:16:07 - INFO] - bot - Bot Running..!
+[19-Jul-24 00:16:17 - ERROR] - pyrogram.dispatcher - 'Bot' object has no attribute 'invitelink2'
+Traceback (most recent call last):
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\dispatcher.py", line 242, in handler_worker
+    await self.loop.run_in_executor(
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\sync.py", line 78, in async_to_sync_wrap
+    return asyncio.run_coroutine_threadsafe(coroutine, main_loop).result()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\mayur\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyromod\listen\message_handler.py", line 98, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "C:\Users\mayur\Desktop\Telegram Bots\OceanofMoviesBot\File-Sharing-Telegram-bot\plugins\start.py", line 190, in not_joined
+    url=client.invitelink2),
+        ^^^^^^^^^^^^^^^^^^
+AttributeError: 'Bot' object has no attribute 'invitelink2'. Did you mean: 'invitelink'?
+[19-Jul-24 00:16:42 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[19-Jul-24 00:16:42 - INFO] - bot - Bot stopped.
+[19-Jul-24 00:16:46 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[19-Jul-24 00:16:54 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6699631591ee424a9b56488a, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6699631591ee424a9b56488a"}, "remainingTimeMS": 30}
+[19-Jul-24 00:16:56 - INFO] - bot - Bot Running..!
+[19-Jul-24 00:18:29 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[19-Jul-24 00:18:39 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[19-Jul-24 00:18:39 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[19-Jul-24 00:18:40 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[19-Jul-24 00:18:40 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[19-Jul-24 00:18:45 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[19-Jul-24 00:18:55 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6699638c023d29d60cd5346b, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6699638c023d29d60cd5346b"}, "remainingTimeMS": 30}
+[19-Jul-24 00:18:57 - INFO] - bot - Bot Running..!
+[19-Jul-24 00:21:56 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[19-Jul-24 00:22:44 - WARNING] - pyrogram.crypto.aes - TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+[19-Jul-24 00:22:54 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6699647bdf2ebd058f6fe027, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-msv9z2p-shard-00-00.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-01.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-msv9z2p-shard-00-02.sivitpp.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6699647bdf2ebd058f6fe027"}, "remainingTimeMS": 30}
+[19-Jul-24 00:22:55 - INFO] - bot - Bot Running..!
+[19-Jul-24 00:23:05 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[19-Jul-24 00:53:22 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[19-Jul-24 00:53:22 - INFO] - bot - Bot stopped.
